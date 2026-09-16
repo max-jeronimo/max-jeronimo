@@ -3,19 +3,19 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1035,50:3b1e6d,100:6d28d9&height=220&section=header&text=Maxwell%20Jeronimo&fontSize=52&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20WPI&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/max-jeronimo">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+%40+WPI;Building+RAG+systems+with+MCP;Full-Stack+%2B+ML+Engineer;Incoming+MS+in+AI+%40+WPI&font=Fira%20Code&center=true&width=600&height=45&color=C4B5FD&vCenter=true&size=22&pause=1500&background=00000000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Combined+B.S.+CS+%2F+M.S.+AI+%40+WPI;Building+RAG+%2B+GraphRAG+systems;Full-Stack+%2B+ML+Engineer;Seeking+Summer+2027+Internships&font=Fira%20Code&center=true&width=600&height=45&color=C4B5FD&vCenter=true&size=22&pause=1500&background=00000000" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/WPI-Presidential%20Scholar-6d28d9?style=for-the-badge&labelColor=1a1035"/>
-<img src="https://img.shields.io/badge/Location-Massachusetts-4c1d95?style=for-the-badge&labelColor=1a1035"/>
+<img src="https://img.shields.io/badge/Location-Swansea%2C%20MA-4c1d95?style=for-the-badge&labelColor=1a1035"/>
 <img src="https://img.shields.io/badge/Focus-AI%2FML%20Engineering-7c3aed?style=for-the-badge&labelColor=1a1035"/>
 
 <br/><br/>
 
-<a href="mailto:"><img src="https://img.shields.io/badge/Email-1a1035?style=flat-square&logo=gmail&logoColor=C4B5FD&color=1a1035"/></a>
-<a href="https://linkedin.com/in/max-jeronimo"><img src="https://img.shields.io/badge/LinkedIn-1a1035?style=flat-square&logo=linkedin&logoColor=C4B5FD&color=1a1035"/></a>
+<a href="mailto:maxjeronimo05@gmail.com"><img src="https://img.shields.io/badge/Email-1a1035?style=flat-square&logo=gmail&logoColor=C4B5FD&color=1a1035"/></a>
+<a href="https://linkedin.com/in/maxwell-jeronimo"><img src="https://img.shields.io/badge/LinkedIn-1a1035?style=flat-square&logo=linkedin&logoColor=C4B5FD&color=1a1035"/></a>
 <a href="https://github.com/max-jeronimo"><img src="https://img.shields.io/badge/GitHub-1a1035?style=flat-square&logo=github&logoColor=C4B5FD&color=1a1035"/></a>
 
 <br/><br/>
@@ -30,13 +30,13 @@
 
 ### 🧠 About Me
 
-I'm a Computer Science undergraduate at **Worcester Polytechnic Institute**, holding a Presidential Scholarship, working toward a career in **AI engineering**. My path runs through full-stack product work (PERN stack, PWAs), applied ML (PyTorch, LSTM/MLP models, scikit-learn), and — most recently — retrieval-augmented systems built on Anthropic's Model Context Protocol.
+I'm pursuing a **Combined B.S. in Computer Science / M.S. in Artificial Intelligence** at **Worcester Polytechnic Institute**, on a Presidential Scholarship. My work spans full-stack product engineering, applied ML, and most recently retrieval-augmented systems built on hybrid **RAG/GraphRAG** pipelines and Anthropic's Model Context Protocol.
 
-I've been accepted into WPI's **CurriculumGPT v2.0** Major Qualifying Project under faculty advisement, which I'm treating as the bridge into WPI's accelerated **MS in AI** program.
+I'm currently an **AI Undergraduate Researcher** under Prof. Wong, building a RAG system to help faculty with curriculum design, and I previously interned as a **Systems and Network Intern** at Brookwood Companies.
 
 ```yaml
-Open To: Summer/Fall 2026 internships in AI/ML & Software Engineering
-Interests: RAG systems, applied ML, full-stack product engineering
+Open To: Summer 2027 Internships & New Grad Opportunities
+Interests: RAG/GraphRAG systems, LLM agents, applied ML, full-stack engineering
 ```
 
 ---
@@ -44,16 +44,16 @@ Interests: RAG systems, applied ML, full-stack product engineering
 ### 🛠️ Tech Stack
 
 **Languages**
-<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,java" />
+<img src="https://skillicons.dev/icons?i=python,java,ts,js,html,css" />
 
-**Frontend**
-<img src="https://skillicons.dev/icons?i=react,html,css" />
+**Frameworks**
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi" />
 
-**Backend & Data**
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma,supabase,flask" />
+**AI / ML**
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
 
-**Tooling & Environment**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vim" />
+**Infrastructure**
+<img src="https://skillicons.dev/icons?i=postgres,supabase,docker,git,github,linux,bash" />
 
 ---
 
@@ -61,93 +61,80 @@ Interests: RAG systems, applied ML, full-stack product engineering
 
 | Domain | Exposure | Details |
 |---|---|---|
-| **RAG Systems** | Active (MQP) | Building a retrieval-augmented system on Anthropic's Model Context Protocol |
-| **Applied ML** | Project-level | PyTorch MLP/LSTM models, scikit-learn, PCA — stock market prediction |
-| **AI/ML Coursework** | Academic | Foundational coursework in AI/ML at WPI |
-| **Security-adjacent ML tooling** | Coursework | CS4401 Software Security Engineering — binary exploitation, GDB, pwntools, Ghidra, ROP |
+| **RAG / GraphRAG** | Active (Research) | Hybrid RAG + GraphRAG retrieval pipeline with an engineered LLM inference layer |
+| **Evaluation** | Active (Research) | Three-tier evaluation framework: RAGAS metrics, custom LLM-judge rubric, educator calibration |
+| **LLM Agents** | Active (Project) | Multi-user Claude-powered Telegram agent with 18 custom tools |
+| **Applied ML** | Coursework / Project | PyTorch, scikit-learn, LLM APIs, vector databases, embeddings |
+| **AI/ML Coursework** | Academic | Generative AI, Responsible AI, MLOps, Artificial Intelligence, Data Mining & Knowledge Discovery |
 
 ---
 
 ### 🚀 Featured Projects
 
 <details>
-<summary><b>🕒 Free Time — Social Calendar App</b></summary>
+<summary><b>🧠 Integrated Workflow Agent</b> (Apr. 2026 – Present)</summary>
 <br/>
 
-A social calendar app centered on a color-coded availability feed, scaffolded into a full React + TypeScript + Supabase architecture with row-level security (RLS) policies, and set up as a PWA.
+A multi-user Claude-powered agent with 18 custom tools managing goals, schedules, to-do lists, and photo-proof check-ins through Telegram. Includes an LLM-driven follow-up workflow that adapts reminder urgency to deadlines and interprets replies to mark tasks complete, skipped, or still pending.
 
 | | |
 |---|---|
-| **Stack** | React · TypeScript · Supabase · PWA |
-| **Security** | Row-Level Security (RLS) policies |
-| **Type** | Personal product build |
+| **Stack** | Claude (LLM tool use) · Telegram · Firebase |
+| **Highlights** | Atomic claims & idempotent handling to prevent duplicate reminders; validated with 25 scripted interactions + a 77-test offline suite |
 
 </details>
 
 <details>
-<summary><b>📚 CurriculumGPT v2.0 — RAG Research (MQP)</b></summary>
+<summary><b>📚 CurriculumGPT v2.0 — RAG/GraphRAG Research</b> (May 2026 – Present)</summary>
 <br/>
 
-Major Qualifying Project (WPI's capstone research requirement) building a retrieval-augmented generation system using Anthropic's Model Context Protocol. Serves as the technical bridge into graduate AI study.
+Faculty-advised research project (WPI, Advisor: Prof. Wong) building a RAG system to assist faculty with curriculum design — extracting competencies, comparing courses, and identifying gaps.
 
 | | |
 |---|---|
-| **Stack** | RAG · Anthropic MCP |
-| **Type** | Faculty-advised research project |
-| **Status** | In progress |
+| **Stack** | Hybrid RAG + GraphRAG · LLM inference layer · React (from Figma) |
+| **Evaluation** | RAGAS metrics, custom LLM-judge rubric, educator calibration |
 
 </details>
 
 <details>
-<summary><b>📈 Stock Market Predictor</b></summary>
+<summary><b>🏥 Mass General Brigham Application</b> (Mar. 2025 – May 2025)</summary>
 <br/>
 
-ML pipeline for stock price prediction using PyTorch MLP and LSTM models, with scikit-learn preprocessing and PCA for dimensionality reduction.
+Collaborated with Brigham & Women's Hospital in a 10-person team to build a cloud-hosted web application prototype using Agile methods. Owned backend development, including the Prisma schema and graph-based hospital navigation.
 
 | | |
 |---|---|
-| **Stack** | Python · PyTorch · scikit-learn |
-| **ML Techniques** | LSTM, MLP, PCA |
-
-</details>
-
-<details>
-<summary><b>🩺 Brigham & Women's Hospital Web App</b></summary>
-<br/>
-
-Software Engineering course project delivered in collaboration with Brigham & Women's Hospital, built with an Agile workflow on the PERN stack.
-
-| | |
-|---|---|
-| **Stack** | PostgreSQL · Node.js · TypeScript · React · Prisma |
+| **Stack** | PostgreSQL · Node.js · TypeScript · React · Prisma · Shadcn · Tailwind |
 | **Methodology** | Agile, team-based |
-
-</details>
-
-<details>
-<summary><b>📬 Job Application Tracker</b></summary>
-<br/>
-
-Gmail-integrated tracker for job applications, with an in-progress conversion into a standalone Flask app.
-
-| | |
-|---|---|
-| **Stack** | Python · Flask · Gmail API |
 
 </details>
 
 ---
 
-### 🏆 Achievements
+### 💼 Experience
+
+<div align="center">
+
+| Role | Org | When |
+|---|---|---|
+| AI Undergraduate Researcher | WPI (Advisor: Prof. Wong) | May 2026 – Present |
+| Systems and Network Intern | Brookwood Companies Incorporated | May 2026 – Aug. 2026 |
+
+</div>
+
+---
+
+### 🏆 Achievements & Activities
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
 | Presidential Scholarship | Worcester Polytechnic Institute |
-| MQP Acceptance | CurriculumGPT v2.0 — faculty-advised AI research |
-| Executive Board Member | WPI Recreational Soccer program |
-| Member | WPI Cyber Security Club |
+| AI Undergraduate Researcher | RAG/GraphRAG curriculum system, WPI |
+| Executive Board Member | Recreational Soccer, WPI (Sept. 2024 – Present) |
+| Member | Tau Kappa Epsilon Fraternity (March 2025 – Present) |
 
 </div>
 
@@ -191,10 +178,10 @@ Gmail-integrated tracker for job applications, with an in-progress conversion in
 ### 🎯 Current Focus
 
 ```yaml
-Learning:   Retrieval-Augmented Generation, Model Context Protocol
-Building:   CurriculumGPT v2.0, Free Time
+Learning:   RAG, GraphRAG, LLM agent design, Model Context Protocol
+Building:   CurriculumGPT v2.0, Integrated Workflow Agent
 Exploring:  Graduate-level AI coursework, applied ML systems
-Open To:    Summer/Fall 2026 AI/ML & SWE internships
+Open To:    Summer 2027 AI/ML & SWE internships
 ```
 
 ---
@@ -203,8 +190,8 @@ Open To:    Summer/Fall 2026 AI/ML & SWE internships
 
 <div align="center">
 
-<a href="mailto:"><img src="https://img.shields.io/badge/Gmail-1a1035?style=for-the-badge&logo=gmail&logoColor=C4B5FD"/></a>
-<a href="https://linkedin.com/in/max-jeronimo"><img src="https://img.shields.io/badge/LinkedIn-1a1035?style=for-the-badge&logo=linkedin&logoColor=C4B5FD"/></a>
+<a href="mailto:maxjeronimo05@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1035?style=for-the-badge&logo=gmail&logoColor=C4B5FD"/></a>
+<a href="https://linkedin.com/in/maxwell-jeronimo"><img src="https://img.shields.io/badge/LinkedIn-1a1035?style=for-the-badge&logo=linkedin&logoColor=C4B5FD"/></a>
 <a href="https://github.com/max-jeronimo"><img src="https://img.shields.io/badge/GitHub-1a1035?style=for-the-badge&logo=github&logoColor=C4B5FD"/></a>
 
 </div>
@@ -213,7 +200,7 @@ Open To:    Summer/Fall 2026 AI/ML & SWE internships
 
 <div align="center">
 
-*"Build things that matter, then build them well."*
+*"Build things that'll give you back time, as time is the most precious thing you will have ever."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:3b1e6d,100:1a1035&height=120&section=footer" width="100%"/>
 
