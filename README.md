@@ -168,7 +168,7 @@ Collaborated with Brigham & Women's Hospital in a 10-person team to build a clou
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/max-jeronimo/max-jeronimo/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://github.com/max-jeronimo/max-jeronimo/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 > Snake animation requires a one-time GitHub Actions workflow — see note below.
