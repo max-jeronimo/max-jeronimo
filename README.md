@@ -151,14 +151,6 @@ Collaborated with Brigham & Women's Hospital in a 10-person team to build a clou
 
 </div>
 
-<details>
-<summary><b>🏅 GitHub Trophies</b></summary>
-<br/>
-<div align="center">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=max-jeronimo&theme=radical&no-frame=true&margin-w=10&row=1"/>
-</div>
-</details>
-
 ---
 
 ### 🔥 Contribution Activity
