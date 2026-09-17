@@ -144,10 +144,10 @@ Collaborated with Brigham & Women's Hospital in a 10-person team to build a clou
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=max-jeronimo&show_icons=true&theme=radical&hide_border=true&bg_color=1a1035&title_color=C4B5FD&icon_color=8b5cf6&text_color=E9D5FF" width="48%"/>
+<img src="https://github-stats-extended-frontend-ten-mu.vercel.app/api?username=max-jeronimo&show_icons=true&theme=radical&hide_border=true&bg_color=1a1035&title_color=C4B5FD&icon_color=8b5cf6&text_color=E9D5FF" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=max-jeronimo&theme=radical&hide_border=true&background=1a1035&stroke=8b5cf6&ring=8b5cf6&fire=a78bfa&currStreakLabel=C4B5FD" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=max-jeronimo&layout=compact&theme=radical&hide_border=true&bg_color=1a1035&title_color=C4B5FD&text_color=E9D5FF" width="48%"/>
+<img src="https://github-stats-extended-frontend-ten-mu.vercel.app/api/top-langs/?username=max-jeronimo&layout=compact&hide_border=true&bg_color=1a1035&title_color=C4B5FD&text_color=E9D5FF" width="48%"/>
 
 </div>
 
@@ -168,9 +168,8 @@ Collaborated with Brigham & Women's Hospital in a 10-person team to build a clou
 </div>
 
 <div align="center">
-<img src="https://github.com/max-jeronimo/max-jeronimo/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/max-jeronimo/max-jeronimo/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
-
 
 ---
 
