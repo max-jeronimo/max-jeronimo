@@ -155,9 +155,6 @@ Collaborated with Brigham & Women's Hospital in a 10-person team to build a clou
 
 ### 🔥 Contribution Activity
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=max-jeronimo&theme=react-dark&bg_color=1a1035&color=C4B5FD&line=8b5cf6&point=E9D5FF&hide_border=true" width="100%"/>
-</div>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/max-jeronimo/max-jeronimo/output/github-contribution-grid-snake-dark.svg" width="100%"/>
